@@ -1,5 +1,6 @@
 
 # Parche Maestro ES — Traductor y Reparador de Mods para Darkest Dungeon
+<img width="1917" height="885" alt="image" src="https://github.com/user-attachments/assets/f323ceaa-6a0c-48cf-a5d0-9287b3455900" />
 
 ## ¿Por qué existe esta herramienta?
 
