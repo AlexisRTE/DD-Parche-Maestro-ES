@@ -1,0 +1,8 @@
+cache_traducciones.json
+salida_xml/
+salida_xml_overrides/
+ultimo_log_compilador.txt
+__pycache__/
+dist/
+build/
+*.spec
